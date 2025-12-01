@@ -17,6 +17,6 @@
 <h1>🔥 Streak Stats</h1>
 https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=radical
 <h1>🌐 Connect With Me</h1>
-- LinkedIn:</h1> https://www.linkedin.com/in/ayush-bahuguna006/ 
+- LinkedIn: https://www.linkedin.com/in/ayush-bahuguna006/ 
 
-- Email:</h1> ayushbahuguna006@gmail.com 
+- Email: ayushbahuguna006@gmail.com 
