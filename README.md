@@ -10,7 +10,7 @@
 <h1>🎯 Goal </h1>
  Build cool projects + grow as a developer
 
-<h1>⚡ fact: I debug 80% of the time ...</h1>
+<h3>⚡ Fact: I debug 80% of the time ...</h3>
 <h1>🧰 Tech Stack</h1>
 - HTML / CSS / JavaScript /Python  
 - Git & GitHub  
