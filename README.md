@@ -14,29 +14,26 @@ Just a dev who breaks things first… and then fixes them
 🧠 Sleep? No, I debug.
 
 <h1>🛠️ Tech Stack</h1>
-<div style="display: flex; gap: 20px; align-items: center;">
+
+<div style="display: flex; gap: 12px; align-items: center;">
 
   <style>
     @keyframes float {
       0%   { transform: translateY(0px); }
-      50%  { transform: translateY(-12px); }
+      50%  { transform: translateY(-6px); }
       100% { transform: translateY(0px); }
     }
     .float-icon {
-      width: 50px;
+      width: 32px;      /* smaller size */
       animation: float 2s ease-in-out infinite;
     }
-    .icon2 { animation-delay: 0.2s; }
-    .icon3 { animation-delay: 0.4s; }
-    .icon4 { animation-delay: 0.6s; }
+    .i2 { animation-delay: 0.15s; }
+    .i3 { animation-delay: 0.30s; }
+    .i4 { animation-delay: 0.45s; }
   </style>
 
-  <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img class="float-icon icon2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img class="float-icon icon3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img class="float-icon icon4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img class="float-i
 
-</div>
 
 
 <h1>🔥 GitHub Stats</h1>
