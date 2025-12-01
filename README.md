@@ -14,7 +14,30 @@ Just a dev who breaks things first… and then fixes them
 🧠 Sleep? No, I debug.
 
 <h1>🛠️ Tech Stack</h1>
-HTML • CSS • JavaScript • ReactJS • Git • GitHub
+<div style="display: flex; gap: 20px; align-items: center;">
+
+  <style>
+    @keyframes float {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(-12px); }
+      100% { transform: translateY(0px); }
+    }
+    .float-icon {
+      width: 50px;
+      animation: float 2s ease-in-out infinite;
+    }
+    .icon2 { animation-delay: 0.2s; }
+    .icon3 { animation-delay: 0.4s; }
+    .icon4 { animation-delay: 0.6s; }
+  </style>
+
+  <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img class="float-icon icon2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img class="float-icon icon3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img class="float-icon icon4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+</div>
+
 
 <h1>🔥 GitHub Stats</h1>
 
