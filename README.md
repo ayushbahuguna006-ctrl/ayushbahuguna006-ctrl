@@ -1,9 +1,9 @@
 
-🎉 Heyyy, I’m Ayush!
+Heyyy, I’m Ayush!
 
-Just a dev who breaks things first… and then fixes them 😎
+Just a dev who breaks things first… and then fixes them 
 
-🧑‍💻 About Me
+<h1>🧑‍💻 About Me</h1>
 
 🚀 Frontend dev in the making
 
@@ -13,23 +13,21 @@ Just a dev who breaks things first… and then fixes them 😎
 
 🧠 Sleep? No, I debug.
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 HTML • CSS • JavaScript • ReactJS • Git • GitHub
 
-🔥 GitHub Stats
+<h1>🔥 GitHub Stats</h1>
 
 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=tokyonight)
 
-🎮 Fun Facts
 
-I write code like: 💡→ 😵→ 😭→ 🧘‍♂️→ 🎉
 
-90% of my commits are “fix: something broke again”
 
-Coffee = productivity potion ☕✨
+
+
 
 📬 Connect With Me
 
