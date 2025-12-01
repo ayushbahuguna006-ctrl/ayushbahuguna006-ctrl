@@ -41,6 +41,12 @@ Just a dev who breaks things first… and then fixes them
 
 📬 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/ayush-bahuguna006/
+<a href="https://www.linkedin.com/in/ayush-bahuguna006/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+</a>
 
-📧 Email: ayushbahuguna006@gmail.com
+
+<a href="mailto:ayushbahuguna006@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
+</a>
+
