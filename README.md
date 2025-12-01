@@ -5,7 +5,7 @@ Just a dev who breaks things first… and then fixes them
 
 <h1>🧑‍💻 About Me</h1>
 
-🚀 Frontend dev in the making
+🚀 Full Stack dev in the making
 
 ⚛️ Currently learning React.
 
