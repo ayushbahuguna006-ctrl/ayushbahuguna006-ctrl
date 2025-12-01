@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 🎉 Heyyy, I’m Ayush!
 
 Just a dev who breaks things first… and then fixes them 😎
@@ -28,8 +21,6 @@ HTML • CSS • JavaScript • ReactJS • Git • GitHub
 
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbahuguna006-ctrl&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=tokyonight)
 
