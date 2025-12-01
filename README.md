@@ -24,7 +24,7 @@ Just a dev who breaks things first… and then fixes them
       100% { transform: translateY(0px); }
     }
     .float-icon {
-      width: 32px;      /* smaller size */
+      width: 5px;      /* smaller size */
       animation: float 2s ease-in-out infinite;
     }
     .i2 { animation-delay: 0.15s; }
