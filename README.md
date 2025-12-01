@@ -16,10 +16,8 @@
 - HTML / CSS / JavaScript /Python  
 - Git & GitHub  
 
-📈 GitHub Stats 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbahuguna006-ctrl&layout=compact&theme=radical)
+
 
 
 
