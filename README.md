@@ -46,7 +46,7 @@ Just a dev who is very much into code!
 </a>
 
 
-<a href="mailto:ayushbahuguna006@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
 </a>
 
