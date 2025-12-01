@@ -19,10 +19,10 @@ Just a dev who breaks things first… and then fixes them
 
 
 
-  <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img class="float-icon i2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img class="float-icon i3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img class="float-icon i4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="5px" />
+  <img class="float-icon i2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="5px" />
+  <img class="float-icon i3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="5px" />
+  <img class="float-icon i4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="5px" />
 
 
 
