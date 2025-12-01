@@ -15,22 +15,16 @@ Just a dev who breaks things first… and then fixes them
 
 <h1>🛠️ Tech Stack</h1>
 
-<div style="display: flex; gap: 12px; align-items: center;">
 
-  <style>
-   
-    }
-    .float-icon {
-      width: 2px;      
-    }
-  </style>
+
+
 
   <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img class="float-icon i2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img class="float-icon i3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img class="float-icon i4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-</div>
+
 
 
 
