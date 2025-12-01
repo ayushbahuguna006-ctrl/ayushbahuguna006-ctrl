@@ -1,7 +1,7 @@
 
 Heyyy, I’m Ayush!
 
-Just a dev who breaks things first… and then fixes them 
+Just a dev who is very much into code!
 
 <h1>🧑‍💻 About Me</h1>
 
