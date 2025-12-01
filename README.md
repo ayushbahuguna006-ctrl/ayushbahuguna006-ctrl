@@ -20,7 +20,6 @@ HTML • CSS • JavaScript • ReactJS • Git • GitHub
 
 
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=tokyonight)
 
