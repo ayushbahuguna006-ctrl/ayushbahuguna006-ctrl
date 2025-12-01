@@ -18,18 +18,11 @@ Just a dev who breaks things first… and then fixes them
 <div style="display: flex; gap: 12px; align-items: center;">
 
   <style>
-    @keyframes float {
-      0%   { transform: translateY(0px); }
-      50%  { transform: translateY(-6px); }
-      100% { transform: translateY(0px); }
+   
     }
     .float-icon {
       width: 2px;      
-      animation: float 2s ease-in-out infinite;
     }
-    .i2 { animation-delay: 0.15s; }
-    .i3 { animation-delay: 0.30s; }
-    .i4 { animation-delay: 0.45s; }
   </style>
 
   <img class="float-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
