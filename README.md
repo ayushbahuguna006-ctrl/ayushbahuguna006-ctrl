@@ -21,6 +21,10 @@ Just a dev who is very much into code!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <a href="https://www.postman.com/your-username" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
+       height="50" >
+</a>
 </div>
 
 
@@ -49,7 +53,4 @@ Just a dev who is very much into code!
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"  />
 </a>
-<a href="https://www.postman.com/your-username" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
-       height="30" class="icon-float"/>
-</a>
+
