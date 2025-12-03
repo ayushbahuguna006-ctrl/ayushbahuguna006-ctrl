@@ -1,4 +1,3 @@
-
 Heyyy, I’m Ayush!
 
 Just a dev who is very much into code!
@@ -50,7 +49,7 @@ Just a dev who is very much into code!
 </a>
 
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"  />
 </a>
 
