@@ -45,8 +45,7 @@ Just a dev who is very much into code!
 <h1>📬 Connect With Me</h1>
 <a href="https://www.linkedin.com/in/ayush-bahuguna006/" style="text-decoration:none;border:0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
-</a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL" style="text-decoration:none;border:0;">
+</a><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL" style="text-decoration:none;border:0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
 </a>
 
