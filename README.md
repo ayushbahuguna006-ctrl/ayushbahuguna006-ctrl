@@ -25,6 +25,15 @@ Just a dev who is very much into code!
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
        height="50" >
 </a>
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+       height="50" class="icon-float"/>
+</a>
+
+
+<a href="https://github.com/ayushbahuguna006-ctrl" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       height="50" class="icon-float"/>
 </div>
 
 
