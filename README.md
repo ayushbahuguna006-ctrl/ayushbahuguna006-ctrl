@@ -21,19 +21,19 @@ Just a dev who is very much into code!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <a href="https://www.postman.com/your-username" target="_blank">
+  
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
        height="50" >
-</a>
-  <a href="https://git-scm.com/" target="_blank">
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-       height="50" class="icon-float"/>
-</a>
+       height="50" />
 
 
-<a href="https://github.com/ayushbahuguna006-ctrl" target="_blank">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       height="50" class="icon-float"/>
+       height="50" />
 </div>
 
 
