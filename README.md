@@ -51,6 +51,5 @@ Just a dev who is very much into code!
 </a>
 <a href="https://www.postman.com/your-username" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
-       alt="Postman" 
-    
+       height="30" class="icon-float"/>
 </a>
