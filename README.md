@@ -40,7 +40,7 @@ Just a dev who is very much into code!
 
 
 📬 Connect With Me
-<div style="display: flex; gap: 300px;">
+
 <a href="https://www.linkedin.com/in/ayush-bahuguna006/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
 </a>
@@ -52,7 +52,5 @@ Just a dev who is very much into code!
 <a href="https://www.postman.com/your-username" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" 
        alt="Postman" 
-       width="48" 
-       class="icon-float"/>
+    
 </a>
-</div>
