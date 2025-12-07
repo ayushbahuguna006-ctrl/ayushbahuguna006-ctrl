@@ -25,7 +25,8 @@ Just a dev who is very much into code!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
        height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/353924/api.svg" height="50px" />
+
 
 
 
