@@ -6,7 +6,7 @@ Just a dev who is very much into code!
 
 🚀 Full Stack dev in the making
 
-⚛️ Currently learning React.
+⚛️ Currently learning React... 
 
 🎨 I love building cool UI
 
