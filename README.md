@@ -32,7 +32,7 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ## 🧩 Tech Stack
 
-<i>scroll →</i>
+
 
 </div>
 
@@ -80,6 +80,9 @@ Crafting clean, modern and user‑friendly web experiences.
 ## 🌍 Connect
 
 <a href="https://github.com/ayushbahuguna006-ctrl">GitHub</a>
+<a href="www.linkedin.com/in/ayush-bahuguna006">Linkedin</a>
+<a href="mailto:ayushbahuguna006@gmail.com">Gmail</a>
+
 
 </div>
 
