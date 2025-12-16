@@ -1,59 +1,94 @@
-👉 Heyyy, I’m Ayush!
+<div align="center">
 
-Just a dev who is very much into code!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ayush&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<h1>🧑‍💻 About Me</h1>
+<h3>Frontend Developer • Modern Web UI</h3>
 
-🚀 Full Stack dev in the making
-
-⚛️ Currently learning React... 
-
-🎨 I love building cool UI
-
-🧠 Sleep? No, I debug.
-
-<h1>🛠️ Tech Stack</h1>
-
-<div style="display: flex; gap: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50px" />
-
-
-
-
+<p>
+Crafting clean, modern and user-friendly web experiences.
+</p>
 
 </div>
 
+---
 
+<div align="center">
 
+## ✨ About Me
 
-<h1>🔥 GitHub Stats</h1>
+</div>
 
+<div align="center">
 
+💡 I focus on building **modern UI**, smooth interactions, and scalable frontend apps.
+🚀 Currently improving **React & JavaScript fundamentals** through real projects.
+🎯 Goal: Become a professional frontend / full-stack developer.
 
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=tokyonight)
+---
 
+<div align="center">
 
+## 🧩 Tech Stack
 
+<i>scroll →</i>
 
+</div>
 
+<div align="center" style="overflow-x:auto; white-space:nowrap; padding:14px; border-radius:16px; background:#0d1117; box-shadow:0 10px 30px rgba(0,0,0,0.4);">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+</div>
 
+---
 
-<h1>📬 Connect With Me</h1>
-<a href="https://www.linkedin.com/in/ayush-bahuguna006/" style="text-decoration:none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
-</a><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgRdCdCNMTPFFRZXsFbCvqNljNnwqkPHvsksffkTTZsXXWJzSfblwHSjksMzFKwfBNnL" style="text-decoration:none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
-</a>
+<div align="center">
 
+## 🗂️ Projects
 
+</div>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🔐<br /><b>Password Generator</b><br />Secure & customizable</td>
+<td align="center">📝<br /><b>Todo App</b><br />CRUD with clean UI</td>
+<td align="center">🌐<br /><b>Portfolio</b><br />Modern React design</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbahuguna006-ctrl&theme=react" height="165" />
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 Connect
+
+<a href="https://github.com/ayushbahuguna006-ctrl">GitHub</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Building every day. Improving every commit.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
