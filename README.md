@@ -75,14 +75,13 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ---
 
-<div align="center" style="display:flex ;flex-direction:column">
+<div align="center" style="display:flex; flex-direction:column; gap:8px;">
 
 ## 🌍 Connect
 
 <a href="https://github.com/ayushbahuguna006-ctrl">GitHub</a>
-<a href="www.linkedin.com/in/ayush-bahuguna006">Linkedin</a>
+<a href="https://www.linkedin.com/in/ayush-bahuguna006">LinkedIn</a>
 <a href="mailto:ayushbahuguna006@gmail.com">Gmail</a>
-
 
 </div>
 
