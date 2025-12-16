@@ -75,7 +75,7 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ---
 
-<div align="center" style="display:flex ;flex-direction:coloumn">
+<div align="center" style="display:flex ;flex-direction:column">
 
 ## 🌍 Connect
 
