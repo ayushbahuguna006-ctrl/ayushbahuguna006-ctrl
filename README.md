@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ayush&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<h3>Frontend Developer • Modern Web UI</h3>
+<h3>Aiming for Full-Stack • Modern Web UI</h3>
 
 <p>
-Crafting clean, modern and user-friendly web experiences.
+Crafting clean, modern and user‑friendly web experiences.
 </p>
 
 </div>
@@ -22,7 +22,7 @@ Crafting clean, modern and user-friendly web experiences.
 
 💡 I focus on building **modern UI**, smooth interactions, and scalable frontend apps.
 🚀 Currently improving **React & JavaScript fundamentals** through real projects.
-🎯 Goal: Become a professional frontend / full-stack developer.
+🎯 Goal: Become a professional frontend / full‑stack developer.
 
 </div>
 
@@ -37,7 +37,7 @@ Crafting clean, modern and user-friendly web experiences.
 </div>
 
 <div align="center" style="overflow-x:auto; white-space:nowrap; padding:14px; border-radius:16px; background:#0d1117; box-shadow:0 10px 30px rgba(0,0,0,0.4);">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,git,github,vscode,postman&theme=dark" /> />
 </div>
 
 ---
@@ -52,9 +52,9 @@ Crafting clean, modern and user-friendly web experiences.
 
 <table>
 <tr>
-<td align="center">🔐<br /><b>Password Generator</b><br />Secure & customizable</td>
-<td align="center">📝<br /><b>Todo App</b><br />CRUD with clean UI</td>
-<td align="center">🌐<br /><b>Portfolio</b><br />Modern React design</td>
+<td align="center">🔐<br /><b>Password Generator</b><br />Secure & customizable passwords</td>
+<td align="center">⚙️<br /><b>Git Repo Generator</b><br />Uses GitHub API</td>
+<td align="center">🛒<br /><b>Amazon Clone</b><br />Modern UI clone</td>
 </tr>
 </table>
 
