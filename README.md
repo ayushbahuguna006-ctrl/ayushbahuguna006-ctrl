@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center ">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=60&section=header&text=Ayush&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=80&section=header&text=Ayush&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 
