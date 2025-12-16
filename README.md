@@ -73,7 +73,8 @@ Crafting clean, modern and user‑friendly web experiences.
   <img src="https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=react" height="165" />
   
   <!-- Only streak stats without extra icon -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbahuguna006-ctrl&theme=react&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbahuguna006-ctrl&theme=react&hide_border=true&mode=weekly" height="165" />
+
 </div>
 
 
