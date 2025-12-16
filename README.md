@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ayush&fontSize=48&fontColor=0000ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ayush&fontSize=48&fontColor=fffff&animation=fadeIn" />
 
 <h3>Aiming for Full-Stack • Modern Web UI</h3>
 
