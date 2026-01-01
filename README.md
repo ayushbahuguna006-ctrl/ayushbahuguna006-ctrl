@@ -74,7 +74,8 @@ Crafting clean, modern and user‑friendly web experiences.
 
 <div align="center">
   <!-- Main GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=react" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbahuguna006-ctrl&theme=react&hide_border=true" />
+
 
 
 
