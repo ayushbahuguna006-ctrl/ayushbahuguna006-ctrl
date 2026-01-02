@@ -66,12 +66,7 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ---
 
-## 📊 GitHub Analytics
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayushbahuguna006-ctrl&theme=react&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushbahuguna006-ctrl&show_icons=true&theme=react&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbahuguna006-ctrl&layout=compact&theme=react&hide_border=true)
 
 
 
