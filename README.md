@@ -74,7 +74,7 @@ Crafting clean, modern and user‑friendly web experiences.
 
 <div align="center">
   <!-- Main GitHub Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbahuguna006-ctrl&theme=react&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=react&hide_border=true" />
 
 
 
