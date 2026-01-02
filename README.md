@@ -56,9 +56,9 @@ Crafting clean, modern and user‑friendly web experiences.
 
 <table>
 <tr>
-<td align="center">⚙️<br /><b>To-Do list using Local Storage</b><br />Secure & customizable passwords</td>
+<td align="center">⚙️<br /><b>To-Do list using Local Storage</b><br />Track your daily Tasks</td>
 <td align="center">⚙️<br /><b>Git Repo Generator</b><br />Uses GitHub API</td>
-<td align="center">⚙️<br /><b>Password Generator</b><br />Modern UI clone</td>
+<td align="center">⚙️<br /><b>Password Generator</b><br />Secure & customizable passwords</td>
 </tr>
 </table>
 
