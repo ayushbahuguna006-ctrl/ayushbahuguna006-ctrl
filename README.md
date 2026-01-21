@@ -64,11 +64,11 @@ Goal: Become a professional frontend / full‑stack developer.
 <td align="center" width="33%">
 
 <br /><br />
-<b>To-Do List</b>  
+<b>Mojito-Frontend</b>  
 <br />
-Local Storage based task manager  
+Frontend for a brand Mojito-Cocktails 
 <br /><br />
-<sub>HTML • CSS • JavaScript</sub>
+<sub>React + Tailwind CSS + GSAP</sub>
 </td>
 
 <td align="center" width="33%">
@@ -84,9 +84,9 @@ Generate repositories using GitHub API
 <td align="center" width="33%">
 
 <br /><br />
-<b>Password Generator</b>  
+<b>To-Do List</b>  
 <br />
-Create secure & customizable passwords  
+Manage Your Daily Tasks with Saved Tasks using Local Storage on Browser  
 <br />
 <sub>JavaScript</sub>
 </td>
