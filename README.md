@@ -55,40 +55,41 @@ Goal: Become a professional frontend / full‑stack developer.
 
 ---
 
+our Projects table with this
 <div align="center">
 
 ## 🗂️ Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-<br /><br />
-<b>Mojito-Frontend</b>  
+<td align="center" valign="top" width="33%">
 <br />
-Frontend for a brand Mojito-Cocktails 
+<b>Mojito Frontend</b>
 <br /><br />
-<h5>React + Tailwind CSS + GSAP</h5>
+Frontend for the Mojito Cocktails brand
+<br /><br />
+<sub>React • Tailwind CSS • GSAP</sub>
 </td>
 
-<td align="center" width="33%">
-
+<td align="center" valign="top" width="33%">
+<br />
+<b>Git Repo Generator</b>
 <br /><br />
-<b>Git Repo Generator</b>  
-<br />
-Generate repositories using GitHub API  
-<br />
+Generate repositories using GitHub API
+<br /><br />
 <sub>JavaScript • REST API</sub>
 </td>
 
-<td align="center" width="33%">
-
-<br /><br />
-<b>To-Do List</b>  
+<td align="center" valign="top" width="33%">
 <br />
-Manage Your Daily Tasks with Saved Tasks using Local Storage on Browser  
-<sub>JavaScript + Local Storage (Browser)</sub>
+<b>To-Do List</b>
+<br /><br />
+Manage daily tasks with browser local storage
+<br /><br />
+<sub>JavaScript • Local Storage</sub>
 </td>
+
 </tr>
 </table>
 
