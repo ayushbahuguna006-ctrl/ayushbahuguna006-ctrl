@@ -55,7 +55,7 @@ Goal: Become a professional frontend / full‑stack developer.
 
 ---
 
-our Projects table with this
+
 <div align="center">
 
 ## 🗂️ Projects
