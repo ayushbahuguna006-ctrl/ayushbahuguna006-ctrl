@@ -77,7 +77,7 @@ Local Storage based task manager
 <b>Git Repo Generator</b>  
 <br />
 Generate repositories using GitHub API  
-<br /><br />
+<br />
 <sub>JavaScript • REST API</sub>
 </td>
 
@@ -87,7 +87,7 @@ Generate repositories using GitHub API
 <b>Password Generator</b>  
 <br />
 Create secure & customizable passwords  
-<br /><br />
+<br />
 <sub>JavaScript</sub>
 </td>
 </tr>
