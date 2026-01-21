@@ -1,18 +1,19 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:0EA5E9&height=180&section=header&text=Ayush&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Ayush%20Bahuguna&fontSize=52&height=90&animation=fadeIn" />
 
-
-
-<h3>Aiming for Full-Stack • Modern Web UI</h3>
-
-<p>
-Crafting clean, modern and user‑friendly web experiences.
+<p align="center">
+<b>Frontend / Full-Stack Developer</b> • Modern Web UI
 </p>
 
+<p align="center">
+Crafting clean, modern & user-friendly web experiences
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:0EA5E9&height=120&section=header" />
+
 </div>
+
 
 ---
 
