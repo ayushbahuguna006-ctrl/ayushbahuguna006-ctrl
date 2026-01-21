@@ -58,19 +58,42 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ## 🗂️ Projects
 
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center">⚙️<br /><b>To-Do list using Local Storage</b><br />Track your daily Tasks</td>
-<td align="center">⚙️<br /><b>Git Repo Generator</b><br />Uses GitHub API</td>
-<td align="center">⚙️<br /><b>Password Generator</b><br />Secure & customizable passwords</td>
+<td align="center" width="33%">
+🚀  
+<br /><br />
+<b>To-Do List</b>  
+<br />
+Local Storage based task manager  
+<br /><br />
+<sub>HTML • CSS • JavaScript</sub>
+</td>
+
+<td align="center" width="33%">
+⚡  
+<br /><br />
+<b>Git Repo Generator</b>  
+<br />
+Generate repositories using GitHub API  
+<br /><br />
+<sub>JavaScript • REST API</sub>
+</td>
+
+<td align="center" width="33%">
+🔐  
+<br /><br />
+<b>Password Generator</b>  
+<br />
+Create secure & customizable passwords  
+<br /><br />
+<sub>JavaScript</sub>
+</td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
