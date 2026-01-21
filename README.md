@@ -41,6 +41,13 @@ Crafting clean, modern and user‑friendly web experiences.
 ![Tailwind](https://img.shields.io/badge/Tailwind-1f2937?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-1f2937?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-1f2937?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1f2937?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-1f2937?style=for-the-badge)
+
 
 
 </div>
