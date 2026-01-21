@@ -106,13 +106,10 @@ Crafting clean, modern and user‑friendly web experiences.
 
 <div align="center">
 
-⭐ *Building every day. Improving every commit.*
+ *Building every day. Improving every commit.*
 
 </div>
 
-<div align="center">
 
-<div align="center" style="margin-top:40px; margin-bottom:40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=90&section=footer&animation=fadeIn" />
-</div> 
+
 
