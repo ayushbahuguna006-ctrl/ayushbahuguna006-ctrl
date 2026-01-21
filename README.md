@@ -87,8 +87,7 @@ Generate repositories using GitHub API
 <b>To-Do List</b>  
 <br />
 Manage Your Daily Tasks with Saved Tasks using Local Storage on Browser  
-
-<sub>JavaScript</sub>
+<sub>JavaScript + Local Storage (Browser)</sub>
 </td>
 </tr>
 </table>
