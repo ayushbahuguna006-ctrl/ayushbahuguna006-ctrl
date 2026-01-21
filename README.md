@@ -41,7 +41,8 @@ Crafting clean, modern and user‑friendly web experiences.
 </div>
 
 <div align="center" style="overflow-x:auto; white-space:nowrap; padding:14px; border-radius:16px; background:#0d1117; box-shadow:0 10px 30px rgba(0,0,0,0.4);">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,git,github,vscode,postman&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,framer,gsap,python,git,github,vscode,postman&theme=dark" />
+
 </div>
 
 ---
