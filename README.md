@@ -24,8 +24,8 @@ Crafting clean, modern and user‑friendly web experiences.
 
 <div align="center">
 
-💡 I focus on building **modern UI**, smooth interactions, and scalable frontend apps.
-🚀 Currently improving **React & JavaScript fundamentals** through real projects.
+💡 I focus on building **modern UI**, smooth interactions, and scalable frontend apps.<br/>
+🚀 Currently improving **React & JavaScript fundamentals** through real projects.<br/>
 🎯 Goal: Become a professional frontend / full‑stack developer.
 
 </div>
