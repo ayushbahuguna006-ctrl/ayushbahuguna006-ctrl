@@ -10,7 +10,7 @@
 Crafting clean, modern & user-friendly web experiences
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:0EA5E9&height=120&section=header" />
+
 
 </div>
 
