@@ -38,10 +38,18 @@ Crafting clean, modern and user‑friendly web experiences.
 
 
 
-</div>
+<div align="center">
 
-<div align="center" style="overflow-x:auto; white-space:nowrap; padding:14px; border-radius:16px; background:#0d1117; box-shadow:0 10px 30px rgba(0,0,0,0.4);">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,git,github,vscode,postman&theme=dark" />
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">HTML</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">CSS</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Tailwind CSS</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">JavaScript</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">React</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Python</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Git</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">GitHub</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">VS Code</span>
+<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Postman</span>
 
 </div>
 
