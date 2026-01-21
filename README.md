@@ -36,20 +36,22 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ## 🧩 Tech Stack
 
-
-
-<div align="center">
-
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">HTML</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">CSS</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Tailwind CSS</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">JavaScript</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">React</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Python</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Git</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">GitHub</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">VS Code</span>
-<span style="display:inline-block; padding:8px 14px; margin:6px; border-radius:8px; background:#1f2937; color:white; font-weight:500;">Postman</span>
+<table>
+<tr>
+<td bgcolor="#1f2937"><b>HTML</b></td>
+<td bgcolor="#1f2937"><b>CSS</b></td>
+<td bgcolor="#1f2937"><b>Tailwind CSS</b></td>
+<td bgcolor="#1f2937"><b>JavaScript</b></td>
+<td bgcolor="#1f2937"><b>React</b></td>
+</tr>
+<tr>
+<td bgcolor="#1f2937"><b>Python</b></td>
+<td bgcolor="#1f2937"><b>Git</b></td>
+<td bgcolor="#1f2937"><b>GitHub</b></td>
+<td bgcolor="#1f2937"><b>VS Code</b></td>
+<td bgcolor="#1f2937"><b>Postman</b></td>
+</tr>
+</table>
 
 </div>
 
