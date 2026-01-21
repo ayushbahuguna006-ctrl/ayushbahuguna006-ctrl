@@ -68,7 +68,7 @@ Goal: Become a professional frontend / full‑stack developer.
 <br />
 Frontend for a brand Mojito-Cocktails 
 <br /><br />
-<sub>React + Tailwind CSS + GSAP</sub>
+<h5>React + Tailwind CSS + GSAP</h5>
 </td>
 
 <td align="center" width="33%">
