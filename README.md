@@ -58,7 +58,8 @@ Goal: Become a professional frontend / full‑stack developer.
 
 ## 🗂️ Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
+
 <tr>
 
 <td align="center" valign="top" width="33%">
