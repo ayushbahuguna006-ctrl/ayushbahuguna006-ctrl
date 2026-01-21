@@ -85,7 +85,7 @@ Generate repositories using GitHub API
 <br />
 <b>To-Do List</b>
 <br /><br />
-Manage daily tasks with browser local storage
+Task manager with persistent browser storage
 <br /><br />
 <sub>JavaScript • Local Storage</sub>
 </td>
