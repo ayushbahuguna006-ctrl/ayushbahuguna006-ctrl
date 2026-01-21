@@ -48,6 +48,13 @@ Goal: Become a professional frontend / full-stack developer.
 </div>
 
 
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=ayushbahuguna006-ctrl&theme=dark&hide_border=true" />
+
+</div>
 
 
 <div align="center">
