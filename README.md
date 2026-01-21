@@ -62,7 +62,7 @@ Goal: Become a professional frontend / full‑stack developer.
 <table>
 <tr>
 <td align="center" width="33%">
-🚀  
+
 <br /><br />
 <b>To-Do List</b>  
 <br />
@@ -72,7 +72,7 @@ Local Storage based task manager
 </td>
 
 <td align="center" width="33%">
-⚡  
+
 <br /><br />
 <b>Git Repo Generator</b>  
 <br />
@@ -82,7 +82,7 @@ Generate repositories using GitHub API
 </td>
 
 <td align="center" width="33%">
-🔐  
+
 <br /><br />
 <b>Password Generator</b>  
 <br />
