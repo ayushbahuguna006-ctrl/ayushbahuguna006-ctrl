@@ -15,7 +15,6 @@ Crafting clean, modern & user-friendly web experiences
 </div>
 
 
----
 
 <div align="center">
 
@@ -31,7 +30,6 @@ Goal: Become a professional frontend / full‑stack developer.
 
 </div>
 
----
 
 <div align="center">
 
@@ -53,7 +51,7 @@ Goal: Become a professional frontend / full‑stack developer.
 
 </div>
 
----
+
 
 
 <div align="center">
