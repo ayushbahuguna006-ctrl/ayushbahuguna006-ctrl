@@ -36,22 +36,12 @@ Crafting clean, modern and user‑friendly web experiences.
 
 ## 🧩 Tech Stack
 
-<table>
-<tr>
-<td bgcolor="#1f2937"><b>HTML</b></td>
-<td bgcolor="#1f2937"><b>CSS</b></td>
-<td bgcolor="#1f2937"><b>Tailwind CSS</b></td>
-<td bgcolor="#1f2937"><b>JavaScript</b></td>
-<td bgcolor="#1f2937"><b>React</b></td>
-</tr>
-<tr>
-<td bgcolor="#1f2937"><b>Python</b></td>
-<td bgcolor="#1f2937"><b>Git</b></td>
-<td bgcolor="#1f2937"><b>GitHub</b></td>
-<td bgcolor="#1f2937"><b>VS Code</b></td>
-<td bgcolor="#1f2937"><b>Postman</b></td>
-</tr>
-</table>
+![HTML](https://img.shields.io/badge/HTML-1f2937?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1f2937?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind-1f2937?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge)
+![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge)
+
 
 </div>
 
