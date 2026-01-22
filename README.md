@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Ayush%20Bahuguna&fontSize=52&height=90&animation=fadeIn" />
 
 <p align="center">
-<b>Frontend / Full-Stack Developer</b> • Modern Web UI
+<b> Full-Stack Developer</b> • Modern Web UI
 </p>
 
 <p align="center">
