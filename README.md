@@ -67,11 +67,11 @@ Generate repositories using GitHub API
 
 <td align="center" valign="top" width="33%">
 <br />
-<b>To-Do List</b>
+<b>URL-Shortener</b>
 <br /><br />
-Task manager with browser storage
+Generates short url and analytics
 <br /><br /><br />
-<sub>JavaScript • Local Storage</sub>
+<sub>Node.js • MongoDB</sub>
 </td>
 
 </tr>
