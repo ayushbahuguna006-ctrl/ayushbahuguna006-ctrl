@@ -69,7 +69,7 @@ Generates short URL and analytics
 
 ## 🌐 Connect
 
-<div align="center">
+<div align="center flex flex-col">
 
 <a href="https://github.com/ayushbahuguna006-ctrl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
