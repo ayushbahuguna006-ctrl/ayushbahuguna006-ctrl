@@ -26,9 +26,7 @@ Crafting clean, modern, and user-friendly web experiences
 
 ## ✨ About Me
 
-I focus on building **modern UI**, **smooth interactions**, and **scalable frontend apps**.  
-Currently improving **backend** and **database fundamentals** through real projects.  
-My goal is to become a professional **full-stack developer**.
+I focus on building **modern UI**, **smooth interactions**, and **scalable frontend apps**.  Currently improving **backend** and **database fundamentals** through real projects.  My goal is to become a professional **full-stack developer**.
 
 ---
 
