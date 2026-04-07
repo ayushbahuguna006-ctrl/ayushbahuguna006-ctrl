@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:06b6d4&height=180&section=header&text=Ayush%20Bahuguna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 
 # Ayush Bahuguna
 
