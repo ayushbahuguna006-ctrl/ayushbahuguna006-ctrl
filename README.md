@@ -56,6 +56,6 @@ Generates short URLs and analytics
 
 <div align="center">
 
-### *Dev*
+### *Dev Readme*
 
 </div>
