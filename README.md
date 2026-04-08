@@ -47,12 +47,12 @@ Frontend for the Mojito Cocktails brand
 
 Generate repositories using GitHub API
 
-<br/> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" /> </td> </tr> <tr> <td width="300px">
+<br/> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" /> </td> <td width="300px">
 🔗 URL Shortener
 
 Generates short URLs and analytics
 
-<br/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> </td> <td width="300px"> </td> </tr> </table> </div>
+<br/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> </td> </tr> </table> </div>
 
 <div align="center">
 
