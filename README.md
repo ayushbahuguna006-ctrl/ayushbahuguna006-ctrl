@@ -53,7 +53,9 @@ I focus on building **modern UI**, **smooth interactions**, and **scalable front
 - Ensured smooth communication between frontend and backend  
 - Resolved real-world issues like CORS, port conflicts, and deployment failures  
 - Maintained production-ready setup with automated updates  
+<div align="center">
+  ### *Dev Readme*
+</div>
 
-### *Dev Readme*
 
 </div>
