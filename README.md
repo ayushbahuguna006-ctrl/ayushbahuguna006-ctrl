@@ -46,13 +46,7 @@ I focus on building **modern UI**, **smooth interactions**, and **scalable front
 - Handled networking concepts like ports, routing, and proxies
 
 ---
-
-## 🌐 Live Application Experience
-
-- Successfully deployed and managed a full-stack application in a cloud environment  
-- Ensured smooth communication between frontend and backend  
-- Resolved real-world issues like CORS, port conflicts, and deployment failures  
-- Maintained production-ready setup with automated updates  
+ 
 <div align="center">
   <h6>Dev Readme</h6>
 </div>
