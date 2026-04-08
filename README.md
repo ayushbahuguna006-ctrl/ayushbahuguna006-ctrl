@@ -56,6 +56,6 @@ Generates short URLs and analytics
 
 <div align="center">
 
-### *Building every day. Improving every commit.*
+### *Dev*
 
 </div>
