@@ -54,7 +54,7 @@ I focus on building **modern UI**, **smooth interactions**, and **scalable front
 - Resolved real-world issues like CORS, port conflicts, and deployment failures  
 - Maintained production-ready setup with automated updates  
 <div align="center">
-  <h3><i>Dev Readme</i></h3>
+  <h6><i>Dev Readme</i></h6>
 </div>
 
 
