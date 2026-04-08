@@ -37,32 +37,34 @@ I focus on building **modern UI**, **smooth interactions**, and **scalable front
 
 
 🚀 Projects
-<div align="center">
+<div align="center"> <table> <tr> <td width="300px">
 🧩 Mojito Frontend
 
 Frontend for the Mojito Cocktails brand
 
-React • Tailwind CSS • GSAP
+<br/>
 
+React Tailwind CSS GSAP
+
+</td> <td width="300px">
 ⚙️ Git Repo Generator
 
 Generate repositories using GitHub API
 
-JavaScript • REST API
+<br/>
 
+JavaScript REST API
+
+</td> </tr> <tr> <td width="300px">
 🔗 URL Shortener
 
-Generates short URLs with analytics support
+Generates short URLs and analytics
 
-Node.js • MongoDB
+<br/>
 
-</div>
+Node.js MongoDB
 
-
-
-</div>
-
----
+</td> <td width="300px"> </td> </tr> </table> </div>
 
 <div align="center">
 
