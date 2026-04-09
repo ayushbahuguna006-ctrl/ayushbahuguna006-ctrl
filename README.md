@@ -32,7 +32,7 @@
 
 
 
-## ✨ About Me
+## 💫 About Me
 
 Full-Stack Developer passionate about building modern web applications and deploying them to real-world environments.  
 Focused on scalability, performance, and clean architecture.
