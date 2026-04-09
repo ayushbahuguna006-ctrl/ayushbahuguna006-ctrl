@@ -10,7 +10,7 @@
 
 ### Full-Stack Developer
 
-Crafting clean, modern, and user-friendly web experiences
+
 
 
   <a href="https://github.com/ayushbahuguna006-ctrl">
