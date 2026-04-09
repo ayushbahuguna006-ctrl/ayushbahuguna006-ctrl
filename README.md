@@ -8,7 +8,7 @@
 
 Crafting clean, modern, and user-friendly web experiences
 
-<p>
+
   <a href="https://github.com/ayushbahuguna006-ctrl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -18,7 +18,7 @@ Crafting clean, modern, and user-friendly web experiences
   <a href="mailto:ayushbahuguna006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
 
 </div>
 
