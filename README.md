@@ -7,7 +7,7 @@
 
 
 # Ayush Bahuguna
-<hr/>
+
 
 ### Full-Stack Developer
 
