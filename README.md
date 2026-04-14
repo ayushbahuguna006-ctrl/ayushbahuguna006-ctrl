@@ -32,11 +32,13 @@
 ---
 
 
+💫 About Me
 
-## 💫 About Me
+Driven Full-Stack Developer passionate about engineering modern digital experiences through scalable architecture, clean code, and performance-focused development. I specialize in building end-to-end web applications by combining intuitive frontend interfaces with robust backend systems, ensuring every product I create is both visually polished and technically efficient.
 
-Full-Stack Developer passionate about building modern web applications and deploying them to real-world environments.  
-Focused on scalability, performance, and clean architecture.
+With hands-on experience across the full development lifecycle—from planning and development to deployment and optimization—I enjoy architecting solutions that are maintainable, scalable, and production-ready. My passion lies not only in building applications but also in understanding the deeper engineering principles behind performance, scalability, and software architecture.
+
+I constantly strive to expand my knowledge of modern technologies, cloud infrastructure, deployment strategies, and development best practices, with the goal of crafting impactful products and continuously evolving as a software engineer.
 
 ---
 
