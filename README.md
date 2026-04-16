@@ -9,7 +9,7 @@
 # Ayush Bahuguna
 
 
-### Full-Stack Developer
+### Full-Stack Develope
 
 
 
