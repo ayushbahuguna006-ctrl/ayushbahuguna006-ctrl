@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <h6>~ Dev Readme --~</h6>
+  <h6>~ Dev Readme ~</h6>
 </div>
 
 
