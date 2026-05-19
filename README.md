@@ -100,7 +100,7 @@ I constantly strive to expand my knowledge of modern technologies, cloud infrast
 ---
  
 <div align="center">
-  <h6>Dev Readme End</h6>
+  <h6>Dev Readme</h6>
 </div>
 
 
